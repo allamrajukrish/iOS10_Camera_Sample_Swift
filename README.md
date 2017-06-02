@@ -11,7 +11,7 @@ BUILD REQUIREMENTS:
 
 RUNTIME REQUIREMENTS:
 
-iPhone in portrait mode running iOS 10.0 or better
+    iPhone in portrait mode running iOS 10.0 or better
 ==================================================================
 
 PACKAGING LIST:
